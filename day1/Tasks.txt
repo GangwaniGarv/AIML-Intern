@@ -1,0 +1,9 @@
+Learning:
+Basics of AI/ML, types of learning, ML pipeline
+Read classifier documents and create a doc of your own and push to GitHub with the code
+
+Task:
+Use load_iris dataset
+Explore with pandas, plot with matplotlib
+Train KNN classifier
+Push code to GitHub
