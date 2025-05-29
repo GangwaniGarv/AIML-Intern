@@ -4,7 +4,7 @@ Handling missing data
 Label encoding, normalization
 Train/Test split
 
-  Mini Task:
+Mini Task:
 Load Titanic dataset from Kaggle or Seaborn
 Clean the data (fill missing, encode)
 Split into train/test sets
