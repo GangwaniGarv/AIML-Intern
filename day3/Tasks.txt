@@ -1,0 +1,11 @@
+Learning Topics:
+Data preprocessing basics
+Handling missing data
+Label encoding, normalization
+Train/Test split
+
+  Mini Task:
+Load Titanic dataset from Kaggle or Seaborn
+Clean the data (fill missing, encode)
+Split into train/test sets
+Push cleaned data + notebook to GitHub
