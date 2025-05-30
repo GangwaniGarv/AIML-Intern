@@ -1,0 +1,9 @@
+Learn:
+Training ML models
+Classification basics (using Logistic Regression)
+Model evaluation with accuracy
+
+Task:
+Use preprocessed Titanic data
+Train a Logistic Regression model to predict survival
+Evaluate using accuracy_score and show results
