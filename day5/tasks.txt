@@ -1,0 +1,10 @@
+Learning Task:
+Confusion Matrix
+Precision, Recall, F1-score
+When accuracy is misleading
+
+Mini Task:
+On Titanic dataset:
+Generate a confusion matrix
+Calculate precision, recall, F1-score
+Write a short analysis: when is accuracy not enough?
