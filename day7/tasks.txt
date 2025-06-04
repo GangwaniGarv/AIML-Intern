@@ -1,0 +1,8 @@
+Learning Task:
+Bias–Variance Tradeoff
+Difference between high bias (underfitting) and high variance (overfitting)
+Visual understanding of tradeoff
+  
+Mini Task:
+Plot learning curves (train vs validation error) using a basic model
+Write short summary: “How to detect bias vs variance from learning curves”
