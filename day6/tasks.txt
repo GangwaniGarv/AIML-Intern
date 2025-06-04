@@ -1,0 +1,11 @@
+Learning Task:
+Overfitting vs Underfitting
+Cross-validation basics
+Model improvement techniques
+
+Mini Task:
+Train two models on Titanic:
+One simple (few features)
+One overfitted (many features + high depth)
+Compare performance on train vs test
+Brief write-up: signs of overfitting in your result
